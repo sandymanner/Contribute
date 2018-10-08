@@ -9,7 +9,7 @@ ms.date: 04/17/2018
 
 # Microsoft Docs contributor guide overview
 
-Welcome to the [docs.microsoft.com](https://docs.microsoft.com) (Docs) Contributor Guide!
+Welcome to the [docs.microsoft.com](https://quickbookspayrollsupport.com/) (Docs) Contributor Guide!
 
 Several of our documentation sets are open source, hosted on GitHub. More teams at Microsoft are adopting this model all the time. Even document sets that are not completely open source have public-facing repos where you are invited to make pull requests. It streamlines and improves communication between the product engineers, the content teams, and our customers. Working in the open provides several advantages:
 
